@@ -1,2 +1,2 @@
 import os as alpha
-alpha.style("nvidia-smi")
+alpha.system("nvidia-smi")
